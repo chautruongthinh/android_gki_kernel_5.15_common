@@ -144,3 +144,9 @@
 
 # preserved by --additions-only
   android_kmalloc_64_create
+
+  usb_composite_overwrite_options
+  usb_otg_descriptor_alloc
+  usb_otg_descriptor_init
+  usb_string_ids_tab
+  
